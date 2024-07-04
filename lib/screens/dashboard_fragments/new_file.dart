@@ -5,6 +5,6 @@ class NewFile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(child: Text('Text'));
+    return const Center(child: Text('Text added'));
   }
 }
